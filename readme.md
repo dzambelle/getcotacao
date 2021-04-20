@@ -1,7 +1,7 @@
 ## Alterado o MySQLdb pelo pymysql
 #
 ## comanda para funcionar a query de um container ao outro
-#  ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'Asdfghj10';
+#  ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY 'senha';
 #
 ## alteração no security level do ssl pra funcionar a parte do tesouro
 #  https://askubuntu.com/questions/1233186/ubuntu-20-04-how-to-set-lower-ssl-security-level
