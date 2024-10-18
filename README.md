@@ -10,7 +10,7 @@ Python code to get:
   - daily USD / BRL quote from Brazilian central bank
 
 # Database
-  - MySQL (not add here since you can use the code and create your own db to sabe the data)
+  - MySQL (not add here since you can use the code and create your own db to save the data)
 
 # How it works
   - Code can be trigger from a cron job to run every 15"minutes and save the information on the database.
